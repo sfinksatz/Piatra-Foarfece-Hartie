@@ -1,0 +1,21 @@
+.corp{
+    background-color: rgb(158, 132, 93);
+}
+.made{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 400px;
+}
+.piatra,.foarfece,.hartie{
+    width: 200px;
+    margin-left: 170px;
+}
+.game{
+    width: 200px;
+    margin-left: 550px;
+}
+.piatra:hover,.foarfece:hover,.hartie:hover{
+    opacity: 0.6;
+}
